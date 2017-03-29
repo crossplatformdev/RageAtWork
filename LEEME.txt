@@ -1,0 +1,9 @@
+  Últimas notas de la publicación           |
+____________________________________________|
+
+- Todos los ejecutables se encuentran en la carpeta build/dist de
+sus respectivos proyectos.
+
+- Existe un bug conocido en el despliegue del proyecto
+que provoca que no se pueda leer la tipografía en el build/dist 
+del proyecto HTML. (https://github.com/libgdx/libgdx/pull/4475)
